@@ -35,7 +35,3 @@ This project is a demonstration of how deep learning and generative AI can be in
 - **Bootstrap:** For the modern and responsive UI design.
 
 ---
-
-## License
-
-This project is open-source under the MIT License.
